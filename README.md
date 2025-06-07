@@ -1,7 +1,7 @@
 # 📘 Learning Julia with Jupyter
 
 **Author:** Kgosi Ruri Molebatsi  
-**Notebook:** `full 2.ipynb`
+**Notebook:** `full.ipynb`
 
 This repository contains a Jupyter Notebook written using the Julia language via the IJulia kernel. It follows exercises and concepts from the *Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence* textbook.
 
