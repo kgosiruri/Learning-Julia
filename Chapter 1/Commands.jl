@@ -2,6 +2,7 @@
 
 # Basic Julia setup and example commands
 
+#Hello, World and Perfect Squares
 # Print a greeting
 println("Hello, Julia!")
 
@@ -20,3 +21,4 @@ println("The square of 4 is ", square(4))
 # Create an array and print it
 arr = [1, 2, 3, 4, 5]
 println("Array: ", arr)
+
