@@ -46,6 +46,19 @@ Pkg.add.(["Random", "Plots", "Statistics", "Roots", "LinearAlgebra", "StatsBase"
 	- 	Math operations (e.g., squaring, square roots)
 	- 	Use of Julia’s package system (Pkg.add)
 	- 	Plotting and visual presentation via Plots.jl
+ ## 📊 Example Outputs
+
+This notebook includes practical examples and outputs from exercises based on the textbook:
+
+**_Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence_**
+
+Below are some sample outputs generated during exploration:
+
+### ✅ Descriptive Statistics
+- Summary statistics, histograms, and boxplots
+```julia
+julia> describe(randn(100))
+```
 
 ## 🎓 Learning Resource
 
